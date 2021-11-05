@@ -1,4 +1,4 @@
-# ASCVD-metabolite-panel
+# ASCVD metabolite panel
 
 Scripts to find a metabolite panel associated with the 10-year atherosclerotic cardiovascular disease (ASCVD) risk score and predictive of incident cardiac disease and CVD mortality used in the following publication:
 "_Incremental value of a panel of serum metabolites for predicting atherosclerotic cardiovascular disease risk_" by Nogal et al. (2021).
