@@ -13,4 +13,4 @@ This repository contains the following files:
 
 Data availability:
 The data used in this study are held by the department of Twin Research at King’s College London. The data can be released to bona fide researchers using our normal
-procedures overseen by the Wellcome Trust and its guidelines as part of our core funding ([https://twinsuk.ac.uk/resources-for-researchers/access-our-data/]).
+procedures overseen by the Wellcome Trust and its guidelines as part of our core funding (https://twinsuk.ac.uk/resources-for-researchers/access-our-data/).
