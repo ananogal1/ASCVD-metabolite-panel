@@ -1,10 +1,10 @@
 # ASCVD metabolite panel
 
-Scripts to find a metabolite panel associated with the 10-year atherosclerotic cardiovascular disease (ASCVD) risk score and predictive of incident cardiac disease (including congestive heart, angina, atrial fibrillation, coronary heart disease and/or congenital heart disease) and CVD mortality used in the following publication:
+This repository contains all the scripts and necessary information to replicate the findings reported in the following publication:
 "_Incremental value of a panel of serum metabolites for predicting atherosclerotic cardiovascular disease risk_" by Nogal et al. (2021).
 
 
-This repository contains the following files:
+Specifically, it contains the following files:
 1. Script used to QC the metabolites data: _QC_metabolites_
 2. Script used to pre-process the data, tune the hyperparameters and assess variable importance in the built random forest models: _RandomForest.R_
 3. Table containing the demographics characteristics from the different cohorts used --> 
