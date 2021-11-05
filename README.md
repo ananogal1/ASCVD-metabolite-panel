@@ -6,7 +6,7 @@ Scripts to find a metabolite panel associated with the 10-year atherosclerotic c
 
 This repository contains the following files:
 1. Script used to QC the metabolites data -->
-2. Script used to tune the hyperparameters for the build random forest models -->
+2. Script used to pre-process the data, tune the hyperparameters and assess variable importance in the build random forest models: _RandomForest.R_
 3. Table containing the demographics characteristics from the different cohorts used --> 
 4. Table containing the metabolites IDs used to run the pathway enrichment analysis with Ingenuity Pathway Analysis (IPA) (QIAGEN Inc.) -->
 
