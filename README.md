@@ -1,7 +1,7 @@
 # ASCVD metabolite panel
 
 This repository contains all the scripts and necessary information to replicate the findings reported in the following publication:
-"_Incremental value of a panel of serum metabolites for predicting atherosclerotic cardiovascular disease risk_" by Nogal et al. (2021).
+"_Incremental value of a panel of serum metabolites for predicting risk of atherosclerotic cardiovascular disease_" by Nogal et al. (2021).
 
 
 Specifically, it contains the following files:
